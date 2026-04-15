@@ -16,7 +16,7 @@ def translate_file(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = "translateTest.txt"
+    input_file = "translate.txt"
     output_file = "translated_tamil.txt"
 
     translate_file(input_file, output_file)
