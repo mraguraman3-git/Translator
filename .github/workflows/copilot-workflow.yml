@@ -3,7 +3,7 @@ name: Translate English to Tamil
 on:
   push:
     paths:
-      - 'translateTest.txt'
+      - 'translate.txt'
 
 jobs:
   translate:
