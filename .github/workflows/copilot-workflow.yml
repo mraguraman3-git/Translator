@@ -5,6 +5,9 @@ on:
     paths:
       - 'translate.txt'
 
+permissions:
+  contents: write
+
 jobs:
   translate:
     runs-on: ubuntu-latest
