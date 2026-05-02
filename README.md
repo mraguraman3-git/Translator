@@ -1,2 +1,2 @@
 # Translator
-Python bassed - Translates english to tamil
+Python bassed project- Translates english to tamil
