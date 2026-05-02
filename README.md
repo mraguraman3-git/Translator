@@ -1,2 +1,2 @@
 # Translator
-Translates english to tamil
+Python bassed - Translates english to tamil
